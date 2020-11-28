@@ -83,8 +83,8 @@ function App() {
               <img src={jasonDesktop} alt="" className="jasonMan"/>
           </div>
           <div className="col-sm">
-              <p>Lorem ipsum sagittis maecenas commodo gravida leo, malesuada orci vivamus odio, lectus ultricies sit nibh molestie. Commodo enim, adipiscing nam diam rutrum commodo rutrum sodales tempus urna morbi ultricies vitae. Gravida mattis vitae&nbsp;&mdash; gravida morbi magna: morbi mauris, in massa&nbsp;&mdash; sapien mauris quisque vivamus bibendum integer at sodales, arcu nulla et massa fusce pharetra. Maecenas risus porttitor ultricies: diam duis metus pellentesque eget sagittis, vitae. Sed ut rutrum porttitor sodales lectus orci integer malesuada enim massa tellus morbi non sapien, justo. Massa, cursus sapien arcu, nulla bibendum, curabitur elementum sed nulla orci vitae maecenas et mauris <b>ornare lorem</b> mattis integer duis justo non leo donec. Congue donec, adipiscing pellentesque commodo eros ornare</p>
-              <p>Ipsum vivamus, justo metus, lorem sed sodales et bibendum porttitor eu tellus congue ut vulputate ligula. Vivamus; nam enim mauris pharetra porttitor orci amet eu quisque cursus, odio in quisque tempus arcu fusce mattis&nbsp;&mdash; adipiscing  Lorem vulputate sit enim donec, eu massa fusce nibh: metus eros nec morbi orci odio malesuada in: vivamus maecenas porttitor.  maecenas integer pellentesque, magna et sem lectus amet mauris </p>
+              <p>Lorem ipsum sagittis maecenas commodo gravida leo, malesuada orci vivamus odio, lectus ultricies sit nibh molestie. Commodo enim, adipiscing nam diam rutrum commodo rutrum sodales tempus urna morbi ultricies vitae. Gravida mattis vitae&nbsp;&mdash; gravida morbi magna: morbi mauris, in massa&nbsp;&mdash.  </p>
+              <p>Ipsum vivamus, justo metus, lorem sed sodales et bibendum porttitor eu tellus congue ut vulputate ligula. Vivamus; nam enim mauris pharetra porttitor orci amet eu quisque cursus.  </p>
           </div>
       </div>
 
