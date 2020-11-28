@@ -3,8 +3,8 @@
     <style>
       .cls-1 {
         fill: none;
-        stroke: #fff;
-        stroke-width: 5px;
+        stroke: #aaa;
+        stroke-width: 0.8px;
         fill-rule: evenodd;
       }
     </style>
