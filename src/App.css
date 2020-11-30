@@ -1,46 +1,5 @@
-.App {
-  color: white;
-}
-.background{
-  height: 24rem;
-  width: 100%;
-  border: 0.1rem solid #000; /* Параметры рамки */
-  background: url(./pictures/BackgroundDesktop.jpg) 100% 100% no-repeat; /* Добавляем фон */
-  background-size: cover; /* Масштабируем фон */
-}
-.container-fluid>div{
-  color: white;
-}
-#navbarSupportedContent{
-  margin-left: 8rem;
-  margin-bottom: 1rem;
-}
-.nav-links{
-  color: white;
-  margin-left: 5rem;
-  margin-top: 2rem;
-  font-weight: 600;
-}
-.nav-links:hover{
-  color: brown;
 
-}
-.nav-links-mid-menu{
-  color: grey;
-  margin-left: 5rem;
-  margin-top: 2rem;
-  font-weight: 600;
-}
-.menuToggle{
-  color: white;
-}
-.slimFont{
-  color: white;
-}
-.jasonMan{
-  width: 100%;
-  height: 100%;
-}
+/*SELECTORS*/
 p{
   color: black;
   font-size: 0.8rem;
@@ -49,11 +8,25 @@ h1, h2, h4{
   color: black;
   font-weight: 400;
 }
-.scrollDown{
-  margin-top: 14rem;
+
+
+/*ID*/
+#navbarSupportedContent{
+  margin-left: 2rem;
+  margin-bottom: 1rem;
 }
-.greyColorText{
-  color: grey;
+
+
+/*CLASSES*/
+.App {
+  color: white;
+}
+.background{
+  border: 0.1rem solid #000; /* Параметры рамки */
+  background: url(./pictures/BackgroundDesktop.jpg) 100% 100% no-repeat; /* Добавляем фон */
+  background-size: cover; /* Масштабируем фон */
+  height: 24rem;
+  width: 100%;
 }
 .blackText{
   color: black;
@@ -61,5 +34,38 @@ h1, h2, h4{
 .card{
   border-color: white;
 }
+.container-fluid>div{
+  color: white;
+}
+.greyColorText{
+  color: grey;
+}
+.jasonMan{
+  height: 100%;
+  width: 100%;
+}
+.menuToggle{
+  color: white;
+}
+.nav-links{
+  color: white;
+  font-weight: 600;
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+.nav-links:hover{
+  color: brown;
 
-
+}
+.nav-links-mid-menu{
+  color: grey;
+  font-weight: 600;
+  margin-left: 8rem;
+  margin-top: 2rem;
+}
+.slimFont{
+  color: white;
+}
+.scrollDown{
+  margin-top: 14rem;
+}
